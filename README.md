@@ -1,4 +1,4 @@
-  # <h1 align="center">Death-rates-COPD</h1>
+  # <h1 align="center">Death rates from COPD in US & Uganda</h1>
 
 
 The age-specific death rates from chronic obstructive pulmonary disease (COPD) in both the United States and Uganda in 2019. The values are given as deaths per 100,000 people.
